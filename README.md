@@ -1,2 +1,2 @@
 # SpatialSectorization
-A spatial partitioning framework for dividing large service regions into operational sectors to enable scalable routing optimization.
+A spatial partitioning framework for decomposing large service regions into operational sectors to support scalable routing optimization.
